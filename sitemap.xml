@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sun00105.github.io/SENG-static-web.github.io/posts/mypost/</loc>
-    <lastmod>2023-02-11T01:45:07-06:00</lastmod>
+    <loc>https://sun00105.github.io/SENG-static-web.github.io/posts/mypostss/</loc>
+    <lastmod>2023-02-11T02:31:20-06:00</lastmod>
   </url><url>
     <loc>https://sun00105.github.io/SENG-static-web.github.io/</loc>
-    <lastmod>2023-02-11T01:45:07-06:00</lastmod>
+    <lastmod>2023-02-11T02:31:20-06:00</lastmod>
   </url><url>
     <loc>https://sun00105.github.io/SENG-static-web.github.io/posts/</loc>
+    <lastmod>2023-02-11T02:31:20-06:00</lastmod>
+  </url><url>
+    <loc>https://sun00105.github.io/SENG-static-web.github.io/posts/myposts/</loc>
+    <lastmod>2023-02-11T02:26:36-06:00</lastmod>
+  </url><url>
+    <loc>https://sun00105.github.io/SENG-static-web.github.io/posts/mypost/</loc>
     <lastmod>2023-02-11T01:45:07-06:00</lastmod>
   </url><url>
     <loc>https://sun00105.github.io/SENG-static-web.github.io/categories/</loc>
